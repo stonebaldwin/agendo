@@ -1,6 +1,6 @@
 ## Progression Stage of Website
 
-Currently working on setting up the template to give an outline
+Currently being put on hold due to end of semester exams, holiday break, and other projects
 
 ## To-do:
 
